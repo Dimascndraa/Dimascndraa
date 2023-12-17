@@ -1,1 +1,1 @@
-<img src="https://github.com/Dimascndraa/Dimascndraa/assets/72033896/43332fa0-5808-4ce9-a4ae-cf4bac3f86ed">
+<img src="https://github.com/Dimascndraa/Dimascndraa/assets/72033896/0c28a686-7183-431f-9a3a-faecbbba6727">
