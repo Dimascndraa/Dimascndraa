@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" height="40"/>
@@ -26,7 +26,45 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" height="40"/>
 </div>
 
-<div align="center">
+<table style="border-collapse: collapse; width: 100%;">
+    <tbody>
+        <tr>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="40"></td>
+            <td style="border: none;">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+            </td>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" height="40"></td>
+        </tr>
+        <tr>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="40"></td>
+            <td style="border: none;"><h2>PARTY OR DIE</h2></td>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" height="40"></td>
+        </tr>
+        <tr>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="40"></td>
+            <td style="border: none;">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+                <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="40">
+            </td>
+            <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" height="40"></td>
+        </tr>
+    </tbody>
+</table>
+
+<div style="text-align: center;">
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="40" />
     <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="40" />
     <img src="https://cultofthepartyparrot.com/guests/catparrot.gif" height="40" />
