@@ -1,53 +1,54 @@
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" height="40"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" height="40"/>
 </div>
 
 <div>
-    <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/catparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partywumpus.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygfm.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/oriolesparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/invisibleparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/portalparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/cryptoparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/inverseparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/fasttwinsparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/thisisfineparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/discoduck.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/minionparrot.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" height="30" />
-    <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" height="30" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/catparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partywumpus.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygfm.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/oriolesparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/stubparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/invisibleparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/portalparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/cryptoparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/inverseparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/dabparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/fasttwinsparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/quadparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/cursedparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/thisisfineparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/discoduck.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/minionparrot.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" height="40" />
+    <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" height="40" />
 </div>
