@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" height="40"></td>
-            <td style="border: none;"><h2>PARTY OR DIE</h2></td>
+            <td style="border: none;"><h2 align="center">PARTY OR DIE</h2></td>
             <td style="border: none;"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" height="40"></td>
         </tr>
         <tr>
