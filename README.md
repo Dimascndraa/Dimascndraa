@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" height="40"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" height="40"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" height="40"/>
@@ -26,7 +26,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/ripparrot.gif" height="40"/>
 </div>
 
-<div>
+<div align="center">
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" height="40" />
     <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" height="40" />
     <img src="https://cultofthepartyparrot.com/guests/catparrot.gif" height="40" />
