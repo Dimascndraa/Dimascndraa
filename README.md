@@ -26,28 +26,28 @@
 </div>
 
 <div>
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
-    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
+    <img src="/guests/hd/vibepartycat.gif" width="30" height="30" />
 </div>
