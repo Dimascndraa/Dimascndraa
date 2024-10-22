@@ -24,3 +24,30 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<div>
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+    <img src="/guests/hd/vibepartycat.gif" class="lazy" data-src="/guests/hd/vibepartycat.gif" alt="Vibe Party Cat">
+</div>
